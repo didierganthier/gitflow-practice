@@ -1,56 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Gitflow Practice
 
-> Description the project.
-
+> In this exercise, I will practice Gitflow with an empty repo.
 
 ## Built With
+- Dummy txt files
+- Gitflow
 
-- Major languages
-- Frameworks
-- Technologies used
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+N/A
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. (NPM)
+1. Ope your terminal
+2. Navigate to the directory where you want your project cloned
+1. Clone the project using `git clone` or just copy the command below:
+  ```
+   git clone https://github.com/didierganthier/gitflow-practice.git
+  ```
+   
+2. Open the project with your IDE. I use [Visual Studio Code](https://code.visualstudio.com/download)
 
 ### Prerequisites
+- Having an IDE .
+- Having Git installed and configured.
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Clone the repository using Git.
+- Open the project folder in your IDE.
 
 ## Authors
 
-👤 **Author1**
+👤 *Author1*
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@didierganthier](https://github.com/didierganthier)
+- Twitter: [@didierganthier_](https://twitter.com/didierganthier_)
+- LinkedIn: [didierganthier](https://linkedin.com/in/didierganthier)
 
 ## 🤝 Contributing
 
